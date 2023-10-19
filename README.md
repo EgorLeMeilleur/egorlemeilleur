@@ -11,14 +11,11 @@ My name is Georgy Pokumin. I'm a MIPT and PSU student in Applied Mathematics and
 - C# (Windows Forms)
 - SQL (PostgreSQL, SQLite)
 - Java (Android)
+- Haskell
 
 ## 📈 Languages Stats
 
-Commits
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorlemeilleur&theme=tokyonight&bg)
-
-Repos
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorlemeilleur&theme=tokyonight&bg)
 
