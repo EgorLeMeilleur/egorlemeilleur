@@ -12,8 +12,6 @@ My name is Georgy Pokumin. I'm a MIPT and PSU student in Applied Mathematics and
 - SQL (PostgreSQL, SQLite)
 - Java (Android)
 
-### @egorlemeilleur ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 ## 📈 Languages Stats
 
 Commits
