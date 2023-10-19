@@ -15,6 +15,7 @@ My name is Georgy Pokumin. I'm a MIPT and PSU student in Applied Mathematics and
 - SQL (PostgreSQL, SQLite)
 - Java (Android)
 - Haskell
+- HTML, CSS
 
 ## 📈 Languages Stats
 
