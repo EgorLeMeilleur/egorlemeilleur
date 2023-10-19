@@ -1,16 +1,26 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorlemeilleur&layout=compact)](https://github.com/egorlemeilleur/github-readme-stats)
-<!--
-**EgorLeMeilleur/egorlemeilleur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+My name is Georgy Pokumin. I'm a MIPT and PSU student in Applied Mathematics and Information Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## @egorlemeilleur ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+## Stack:
+
+- Python (Machine Learning and Data Analysis, Django)
+- C++ 
+- C# (Windows Forms)
+- SQL (PostgreSQL, SQLite)
+- Java (Android)
+
+### @egorlemeilleur ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+## 📈 Languages Stats
+
+Commits
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorlemeilleur&theme=tokyonight&bg)
+
+Repos
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorlemeilleur&theme=tokyonight&bg)
+
