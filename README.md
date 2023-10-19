@@ -19,3 +19,5 @@ My name is Georgy Pokumin. I'm a MIPT and PSU student in Applied Mathematics and
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorlemeilleur&theme=tokyonight&bg)
 
+[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egorlemeilleur&count_private=true&show_icons=true&theme=buefy)](https://github.com/egorlemeilleur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorlemeilleur&layout=compact&theme=buefy)](https://github.com/egorlemeilleur)
